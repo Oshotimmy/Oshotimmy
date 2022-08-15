@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oshotimmy
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ALX projects
 - 📫 How to reach me oshodife2010@gmail.com
 
 <!---
